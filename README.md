@@ -4,7 +4,7 @@
 🎓 Estudante de Tecnologia da Informação no Firjan SENAI SESI  
 📍 Quitandinha - Petrópolis/RJ  
 📚 Coautor de artigo científico no projeto Firjan Math en Jeans  
-🚀 Em busca da primeira oportunidade como desenvolvedor
+🚀 Em busca da primeira oportunidade como Desenvolvedor de Software
 
 ## 🛠️ Tecnologias
 - HTML | CSS | JavaScript
