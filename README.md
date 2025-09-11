@@ -1,16 +1,17 @@
 ## Hi there 👋
+# Lucas Branco Lira 👨‍💻
 
-<!--
-**lc-lira/lc-lira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação no Firjan SENAI SESI  
+📍 Quitandinha - Petrópolis/RJ  
+📚 Coautor de artigo científico no projeto Firjan Math en Jeans  
+🚀 Em busca da primeira oportunidade como desenvolvedor
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- HTML | CSS | JavaScript
+- Java | PostgreSQL | MySQL | SQL | Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente aprendendo:
+- Desenvolvimento de API em Python
+
+📫 **Contato:** lbrancolira@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-lira-0b1583351](https://www.linkedin.com/in/lucas-lira-0b1583351))
