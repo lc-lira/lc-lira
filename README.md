@@ -1,5 +1,6 @@
 ## Hi there 👋
-# Lucas Branco Lira 👨‍💻
+
+<img width="2000" height="600" alt="Capa de perfil para banner de linkedIn" src="https://github.com/user-attachments/assets/c8b6965d-700d-48ec-ada4-0fbb6e75ba0e" />
 
 🎓 Estudante de Tecnologia da Informação no Firjan SENAI SESI  
 📍 Quitandinha - Petrópolis/RJ  
