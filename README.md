@@ -14,7 +14,7 @@
 ## Atualmente aprendendo:
 - Desenvolvimento de API em Python
 
-📫 **Contato:** 
+##📫 **Contato:** 
 
 🔗 lbrancolira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-lira-0b1583351](https://www.linkedin.com/in/lucas-lira-0b1583351))
