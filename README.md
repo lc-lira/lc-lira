@@ -14,5 +14,6 @@
 - Desenvolvimento de API em Python
 
 📫 **Contato:** 
+
 🔗 [Email] lbrancolira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-lira-0b1583351](https://www.linkedin.com/in/lucas-lira-0b1583351))
