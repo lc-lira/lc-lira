@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Lucas Lira</h1>
+<h1 align="center">Olá! Eu sou o Lucas Lira👋</h1>
 <p align="center">
   <strong>Estudante de TI • Desenvolvedor de Software em formação</strong>
 </p>
