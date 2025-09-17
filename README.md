@@ -26,7 +26,7 @@
 <!-- Aprendizado e Interesses -->
 <h2 align="center">📚 Atualmente aprendendo</h2>
 <div align="center" style="text-align: left; max-width: 600px; margin: auto;">
-    <li>Desenvolvimento de APIs em Python</li>
-    <li>Integração de bancos de dados PostgreSQL</li>
-    <li>Boas práticas de versionamento com Git</li>
+    <p>Desenvolvimento de APIs em Python</p>
+     <p>Integração de bancos de dados PostgreSQL</p>
+     <p>Boas práticas de versionamento com Git</p>
  </div>
