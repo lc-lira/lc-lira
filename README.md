@@ -1,9 +1,4 @@
-<!-- ==================== HEADER / HERO ==================== -->
 <h1 align="center">Olá 👋, eu sou Lucas B. Lira</h1>
-<p align="center">
-  <a href="https://github.com/lc-lira"><img alt="Profile" src="https://github.com/lc-lira.png" width="120" style="border-radius:50%"></a>
-</p>
-
 <p align="center">
   <strong>Estudante de TI • Desenvedor de Software em formação</strong>
 </p>
@@ -38,17 +33,6 @@
 
 
 ---
-
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 Minhas estatísticas (github-readme-stats)
-<p align="left">
-<a href="https://github.com/lc-lira">
-    <img align="left" alt="lc-lira's github stats" src="https://github-readme-stats.vercel.app/api?username=lc-lira&show_icons=true&theme=default" />
-  </a>
-
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-lira&layout=compact" />
-</p>
-
 <!-- ==================== CONTACT / SOCIAL ==================== -->
 ---
 
@@ -61,7 +45,3 @@
 
 ---
 
-<!-- ==================== FOOTER / LAST UPDATED ==================== -->
-<p align="center">
-  <small>✨ Atualizado em: <!-- use a data atual --> 17 de Setembro de 2025</small>
-</p>
