@@ -2,7 +2,6 @@
 <p align="center">
   <strong>Estudante de TI • Desenvolvedor de Software em formação</strong>
 </p>
-<!-- Tecnologias -->
 <h2 align="center">💻 Tecnologias</h2>
 <div align="center" style="margin-top: 15px;">
   <img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin: 10px;">
@@ -13,7 +12,6 @@
   <img align="center" alt="Lucas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin: 10px;">
   <img align="center" alt="Lucas-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin: 10px;">
 </div>
-<!-- Contatos -->
 <h2 align="center">📫 Contatos</h2>
 <div align="center" style="margin-top: 15px;">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbrancolira@gmail.com" target="_blank">
@@ -23,7 +21,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 10px;">
   </a> 
 </div>
-<!-- Aprendizado e Interesses -->
 <h2 align="center">📚 Atualmente aprendendo</h2>
 <div align="center" style="text-align: left; max-width: 600px; margin: auto;">
     <p>Desenvolvimento de APIs em Python</p>
