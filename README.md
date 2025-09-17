@@ -2,10 +2,6 @@
 <p align="center">
   <strong>Estudante de TI • Desenvolvedor de Software em formação</strong>
 </p>
-
-<!-- Espaço -->
-<br><br>
-
 <!-- Tecnologias -->
 <h2 align="center">💻 Tecnologias</h2>
 <div align="center" style="margin-top: 15px;">
@@ -40,18 +36,7 @@
 <div align="center" style="text-align: left; max-width: 600px; margin: auto;">
   <ul>
     <li>Desenvolvimento de APIs em Python</li>
-    <li>Integração de bancos de dados MySQL e PostgreSQL</li>
+    <li>Integração de bancos de dados PostgreSQL</li>
     <li>Boas práticas de versionamento com Git</li>
-  </ul>
-</div>
-
-<br>
-
-<h2 align="center">💡 Interesses</h2>
-<div align="center" style="text-align: left; max-width: 600px; margin: auto;">
-  <ul>
-    <li>Desenvolvimento Full Stack</li>
-    <li>Automação e assistentes virtuais</li>
-    <li>Projetos de software focados em eficiência e aprendizado contínuo</li>
   </ul>
 </div>
