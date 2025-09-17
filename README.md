@@ -24,7 +24,7 @@
   </a> 
 </div>
 <!-- Aprendizado e Interesses -->
-<h2 align="center">🌱 Atualmente aprendendo</h2>
+<h2 align="center">📚 Atualmente aprendendo</h2>
 <div align="center" style="text-align: left; max-width: 600px; margin: auto;">
   <ul>
     <li>Desenvolvimento de APIs em Python</li>
