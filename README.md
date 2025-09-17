@@ -42,8 +42,7 @@
 <!-- ==================== GITHUB STATS ==================== -->
 ## 📊 Minhas estatísticas (github-readme-stats)
 <p align="left">
-  <!-- Substitua `seu-usuario` pelo seu username -->
-  <a href="https://github.com/lc-lira">
+<a href="https://github.com/lc-lira">
     <img align="left" alt="lc-lira's github stats" src="https://github-readme-stats.vercel.app/api?username=lc-lira&show_icons=true&theme=default" />
   </a>
 
