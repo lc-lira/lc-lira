@@ -13,7 +13,7 @@
   <img align="center" alt="Lucas-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin: 5px;">
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 40px;">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbrancolira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;">
   </a>
