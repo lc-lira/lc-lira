@@ -1,47 +1,23 @@
-<h1 align="center">Olá 👋, eu sou Lucas B. Lira</h1>
+<h1 align="center">Olá! Eu sou o Lucas Lira</h1>
 <p align="center">
   <strong>Estudante de TI • Desenvedor de Software em formação</strong>
 </p>
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="status">
-  <img src="https://img.shields.io/badge/Tech-JavaScript%20|%20Python-blue?style=for-the-badge" alt="tech">
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge" alt="vscode">
-</p>
 
----
-
-<!-- ==================== ABOUT / BIO ==================== -->
-## Sobre mim
-- 🎓 Último ano do ensino médio integrado técnico em TI na FIrjan Senai Sesi
-
-
----
-
-<!-- ==================== SKILLS / TECH STACK ==================== -->
-## Tecnologias e Ferramentas
-- **Linguagens:** Python, JavaScript, Java  
-- **Web:** React, Node.js, Express  
-- **Infra:** Docker, Git, GitHub Actions  
-- **Outros:** SQL, Linux, VS Code
-
----
-
-<!-- ==================== PROJECTS / PINNED ==================== -->
-## Projetos em destaque
-
-
----
-<!-- ==================== CONTACT / SOCIAL ==================== -->
----
-
-## 📫 Como me encontrar
-<p>
-  <a href="https://www.linkedin.com/in/seu-linkedin">LinkedIn</a> •
-  <a href="mailto:seu-email@example.com">Email</a> •
-  <a href="https://twitter.com/seu_twitter">Twitter</a>
-</p>
-
----
+#<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
