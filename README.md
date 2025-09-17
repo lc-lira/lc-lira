@@ -15,10 +15,10 @@
 <h2 align="center">📫 Contatos</h2>
 <div align="center" style="margin-top: 15px;">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbrancolira@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 10px;">
+ <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 10px; vertical-align: bottom;">
 </a>
 <a href="https://www.linkedin.com/in/lucas-lira-0b1583351" target="_blank" style="display: inline-block; vertical-align: middle;">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 10px; vertical-align: bottom;">
 </a>
 </div>
 <h2 align="center">📚 Atualmente aprendendo</h2>
