@@ -9,8 +9,6 @@
   <img align="center" alt="Lucas-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 10px;">
   <img align="center" alt="Lucas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin: 10px;">
   <img align="center" alt="Lucas-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="margin: 10px;">
-  <img align="center" alt="Lucas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin: 10px;">
-  <img align="center" alt="Lucas-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin: 10px;">
 </div>
 <h2 align="center">📫 Contatos</h2>
 <div align="center" style="margin-top: 15px;">
