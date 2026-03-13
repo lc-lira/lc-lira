@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Lucas Lira👋</h1>
 <p align="center">
-  <strong>Estudante de TI • Desenvolvedor de Software em formação</strong>
+  <strong>Estudante de TI • Desenvolvedor Full Stack em formação</strong>
 </p>
 <h2 align="center">💻 Tecnologias</h2>
 <div align="center" style="margin-top: 15px;">
