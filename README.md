@@ -3,14 +3,14 @@
   <strong>Estudante de TI • Desenvolvedor Full Stack em formação</strong>
 </p>
 <h2 align="center">💻 Tecnologias</h2>
-<div align="center" style="margin-top: 15px;">
-  <img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin: 10px;">
-  <img align="center" alt="Lucas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin: 10px;">
-  <img align="center" alt="Lucas-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 10px;">
-  <img align="center" alt="Lucas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin: 10px;">
-  <img align="center" alt="Lucas-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="margin: 10px;">
-  <img align="center" alt="Arthur-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" />
+</p>
 <h2 align="center">📫 Contatos</h2>
 <div align="center" style="margin-top: 15px;">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbrancolira@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;">
