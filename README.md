@@ -4,9 +4,9 @@
 
 Atuo no desenvolvimento de software com foco na construção de lógicas de negócio estruturadas, APIs RESTful e gerenciamento de banco de dados. Possuo base sólida no ecossistema Java e na criação de servidores eficientes, com conhecimentos em Front-end que facilitam a integração e o consumo de dados pelas interfaces.
 
-- 🔭 Atualmente focado no desenvolvimento de projetos práticos de Back-end.
-- 💻 Principais tecnologias de atuação: **Java, Spring Boot e PostgreSQL**.
-- 🎓 Residente em TIC/Software (SERRATEC) e estudante de Tecnologia da Informação (FAETERJ).
+- Atualmente focado no desenvolvimento de projetos práticos de Back-end.
+- Principais tecnologias de atuação: **Java, Spring Boot e PostgreSQL**.
+- Residente em TIC/Software (SERRATEC) e estudante de Tecnologia da Informação (FAETERJ).
 
 ---
 
