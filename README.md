@@ -27,12 +27,11 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📊 Estatísticas e Atividade
 
-### 📊 Estatísticas do GitHub
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lc-lira&theme=react&bg_color=0d1117&hide_border=true)](https://github.com/lc-lira)
 
-[![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=lc-lira&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/lc-lira)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-lira&layout=compact&theme=dark&hide_border=true)](https://github.com/lc-lira)
+[![Streak do GitHub](https://streak-stats.demolab.com/?user=lc-lira&theme=dark&hide_border=true)](https://github.com/lc-lira)
 
 ---
 
