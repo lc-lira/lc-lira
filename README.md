@@ -35,4 +35,4 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 ### 📬 Contato
 
 <a href="https://www.linkedin.com/in/lucas-b-lira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lbrancolira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lbrancolira@gmail.com)
