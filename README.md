@@ -30,10 +30,9 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lc-lira&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Lucas" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-lira&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
+[![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=lc-lira&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/lc-lira)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-lira&layout=compact&theme=dark&hide_border=true)](https://github.com/lc-lira)
 
 ---
 
