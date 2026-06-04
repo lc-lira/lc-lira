@@ -10,7 +10,7 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Back-end & Banco de Dados:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,12 +27,12 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 📊 Estatísticas e Atividade
+### Estatísticas e Atividade
 
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lc-lira&theme=react&bg_color=0d1117&hide_border=true)](https://github.com/lc-lira)
 ---
 
-### 📬 Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/lucas-b-lira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lbrancolira@gmail.com)
