@@ -30,8 +30,6 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 ### 📊 Estatísticas e Atividade
 
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lc-lira&theme=react&bg_color=0d1117&hide_border=true)](https://github.com/lc-lira)
-
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lc-lira&theme=react&bg_color=0d1117&hide_border=true)](https://github.com/lc-lira)
 ---
 
 ### 📬 Contato
