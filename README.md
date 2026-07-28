@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Lira 👋
 
-### Desenvolvedor Fullstack | Foco em Back-end & Arquitetura de Sistemas
+### Desenvolvedor Backend 
 
 Atuo no desenvolvimento de software com foco na construção de lógicas de negócio estruturadas, APIs RESTful e gerenciamento de banco de dados. Possuo base sólida no ecossistema Java e na criação de servidores eficientes, com conhecimentos em Front-end que facilitam a integração e o consumo de dados pelas interfaces.
 
