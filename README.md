@@ -27,10 +27,6 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### Estatísticas e Atividade
-
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lc-lira&theme=react&bg_color=0d1117&hide_border=true)](https://github.com/lc-lira)
----
 
 ### Contato
 
