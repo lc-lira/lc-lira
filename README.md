@@ -11,7 +11,7 @@ Atuo no desenvolvimento de software com foco na construção de lógicas de neg�
 
 ### Tecnologias e Ferramentas
 
-**Back-end & Banco de Dados:**  
+**Backend & Banco de Dados:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
